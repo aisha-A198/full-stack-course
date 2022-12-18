@@ -27,9 +27,9 @@ p{
 
 .img-facebook , .img-twitter , .img-linkedin , .img-github :hover{
 
-    background-color: red;
+/*     background-color: red; */
     margin-left: 20px;
-    border: brown;
+/*     border: brown; */
 }
 
 /* button{
