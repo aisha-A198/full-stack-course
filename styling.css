@@ -22,14 +22,19 @@ p{
     width: 30px;
     height: 30px;
     opacity: 0.5;
+    margin-left: 20px;
+
+
 }
 
 
-.img-facebook , .img-twitter , .img-linkedin , .img-github :hover{
+.img-facebook , .img-twitter , .img-linkedin , .img-github :hover {
 
-/*     background-color: red; */
-    margin-left: 20px;
-/*     border: brown; */
+    border: 0;
+
+    /* background-color: red; */
+    /* margin-left: 20px; */
+    /* border: brown; */
 }
 
 /* button{
